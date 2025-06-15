@@ -1,1 +1,1 @@
-![Logo](language-service.png)
+![Logo](../images/language-service.png)

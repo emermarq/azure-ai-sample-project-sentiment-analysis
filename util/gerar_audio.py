@@ -10,4 +10,4 @@ Azure AI empowers innovation by providing accessible, enterprise-grade AI soluti
 """
 
 tts = gTTS(text)
-tts.save("azure_ai.mp3")
+tts.save("../util/azure_ai.mp3")

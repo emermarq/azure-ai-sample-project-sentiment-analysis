@@ -1,1 +1,1 @@
-![Logo](azure-ai-speech.png)
+![Logo](../images/azure-ai-speech.png)
